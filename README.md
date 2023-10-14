@@ -24,8 +24,9 @@ Sharing Wisdom: The wisdom and knowledge we impart are not just about the indivi
 Inspired by Jim Kwik: Jim Kwik's book, "Limitless," serves as a wellspring of inspiration for our project. His dedication to helping people unlock their extraordinary potential has ignited our passion to carry this mission forward and make a difference in the lives of countless individuals.
 
 
-
-
+# Screenshot 
+![screenshotimg](/IMG_5711.jpg)
+![screenshotimg](/IMG_5712.jpg)
 
 
 
